@@ -40,4 +40,4 @@ Samyar Projects' Assets, Banners & Logos
 
 <hr>
 
-***Copyright © 2021-2023 Samyar Sadat Akhavi.***
+***Copyright © 2021-2024 Samyar Sadat Akhavi.***
